@@ -23,7 +23,7 @@ Screenshot & Demo Video
 -----------------------
 
 To see a demo video, click the screenshot
-<a style="float:right" href="https://youtu.be/3mRFK-IM6oU" target="_blank">
+<a style="float:right" href="https://youtu.be/70yGW73XuGA" target="_blank">
   <img alt="PicSciP Demo Video" src="https://github.com/leviettuan/GLBP/blob/master/Images/HumanActionRecognition.jpg" width="100%" height="100%" />
 </a>
 
