@@ -13,7 +13,11 @@ Human Action Recognition (GLBP)
   <param name="base" value="http://content.screencast.com/users/mattdipasquale/folders/Jing/media/7d0d010f-f4fd-44b2-95fb-818a982c2c36/" />
 </object> -->
 
+HOG3D
 
+HOF
+
+Opponent SIFT
 
 Screenshot & Demo Video
 -----------------------
